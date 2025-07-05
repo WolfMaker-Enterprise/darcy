@@ -1,10 +1,5 @@
-import React from 'react';
-import GradientConteiner from '../components/GradientConteiner';
+import React from "react";
 
 export default function Historico() {
-  return (
-    <div>
-      <GradientConteiner />
-    </div>
-  );
+  return <div></div>;
 }
